@@ -5,7 +5,7 @@ function a() {
 
 function b(){
 	console.log('Test me!');
-	return 12345;
+	return new Map();
 }
 
 function c(){
