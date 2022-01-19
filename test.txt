@@ -1,17 +1,6 @@
 Это первая строка!
 
 
-
-
-
 BUG FIXED
-
-
-
-FIXED SOMEONE BUG!
-
-
-
-
 
 THIS IS BUG
