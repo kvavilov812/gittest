@@ -15,4 +15,7 @@ function c(){
 function d(){
 	// TODO: One more function
 	// Внес баг
+	// Исправил баг
+	// Нашел еще один баг
+	// Fixed one more
 }
