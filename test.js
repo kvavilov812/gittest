@@ -1,6 +1,6 @@
 function a() {
 	console.log('Hello world!');
-	alert('Hello');
+	alert('Hello World');
 }
 
 function b(){
