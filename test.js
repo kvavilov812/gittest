@@ -16,6 +16,9 @@ function c(){
 	// xxxxxxx
 	// dsfsdfsdfdsfsdf
 	// sdfsdfdsfdsfsdfs
+	// 0987654321
+	// 1234567890
+	// aaaaaaaaaa
 }
 
 function d(){
@@ -24,6 +27,8 @@ function d(){
 	// Исправил баг
 	// Нашел еще один баг
 	// Fixed one more
+	// bbbbbbbbbbbbbb
+	// cccccccccccccc
 }
 
 function e(){
