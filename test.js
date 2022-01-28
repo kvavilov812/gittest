@@ -13,6 +13,7 @@ function b(){
 function c(){
 	// TODO: Some fixes
 	// aaaaaaa
+	// xxxxxxx
 }
 
 function d(){
