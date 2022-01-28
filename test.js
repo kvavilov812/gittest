@@ -27,6 +27,7 @@ function d(){
 	// Исправил баг
 	// Нашел еще один баг
 	// Fixed one more
+	// bbbbbbbbbbbbbb
 	// cccccccccccccc
 }
 
@@ -37,6 +38,6 @@ function e(){
 
 
 	let x = 1;
-	x--;
+	x++;
 }
 
