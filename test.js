@@ -19,3 +19,8 @@ function d(){
 	// Нашел еще один баг
 	// Fixed one more
 }
+
+function e(){
+	// TODO: new function
+}
+
