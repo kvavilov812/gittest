@@ -14,8 +14,9 @@ function c(){
 	// TODO: Some fixes
 	// aaaaaaa
 	// xxxxxxx
-	// zzzzzzz
-	// ccccccc
+	// dsfsdfsdfdsfsdf
+	// sdfsdfdsfdsfsdfs
+	// 1234567890
 }
 
 function d(){
@@ -24,6 +25,7 @@ function d(){
 	// Исправил баг
 	// Нашел еще один баг
 	// Fixed one more
+	// 1234567890
 }
 
 function e(){
