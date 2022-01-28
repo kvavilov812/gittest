@@ -1,4 +1,6 @@
 function a() {
+	//console.log('Hello world!');
+	//alert('Hello');
 	console.log('Hello world!');
 	alert('Hello World');
 }
@@ -10,7 +12,7 @@ function b(){
 
 function c(){
 	// TODO: Some fixes
-	// bbbbbbbbb
+	// aaaaaaa
 }
 
 function d(){
