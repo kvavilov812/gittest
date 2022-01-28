@@ -33,5 +33,7 @@ function d(){
 
 function e(){
 	// TODO: new function
+	let x = 0;
+	x++;
 }
 
